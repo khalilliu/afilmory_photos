@@ -5,7 +5,7 @@
       "id": "DSCF3902",
       "title": "DSCF3902",
       "description": "",
-      "dateTaken": "2025-07-30T09:56:43.025Z",
+      "dateTaken": "2025-07-30T10:43:31.040Z",
       "tags": [
         "thumbnails"
       ],
@@ -16,7 +16,7 @@
       "height": 800,
       "aspectRatio": 0.75,
       "s3Key": "thumbnails/DSCF3902.webp",
-      "lastModified": "2025-07-30T09:56:39.621Z",
+      "lastModified": "2025-07-30T10:43:25.340Z",
       "size": 213886,
       "exif": null,
       "toneAnalysis": {
@@ -30,38 +30,10 @@
       "isHDR": false
     },
     {
-      "id": "DSCF3768",
-      "title": "DSCF3768",
-      "description": "",
-      "dateTaken": "2025-07-30T09:56:42.428Z",
-      "tags": [
-        "thumbnails"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/khalilliu/afilmory_photos/main/thumbnails/DSCF3768.webp",
-      "thumbnailUrl": "/thumbnails/DSCF3768.webp",
-      "thumbHash": "a3e7090d82b868678f7a887986a9987ad8748ffc67",
-      "width": 600,
-      "height": 400,
-      "aspectRatio": 1.5,
-      "s3Key": "thumbnails/DSCF3768.webp",
-      "lastModified": "2025-07-30T09:56:39.621Z",
-      "size": 107526,
-      "exif": null,
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 55,
-        "contrast": 42,
-        "shadowRatio": 0.15,
-        "highlightRatio": 0.33
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
       "id": "DSCF4149",
       "title": "DSCF4149",
       "description": "",
-      "dateTaken": "2025-07-30T09:56:41.462Z",
+      "dateTaken": "2025-07-30T10:43:29.649Z",
       "tags": [
         "thumbnails"
       ],
@@ -72,7 +44,7 @@
       "height": 1068,
       "aspectRatio": 0.5617977528089888,
       "s3Key": "thumbnails/DSCF4149.webp",
-      "lastModified": "2025-07-30T09:56:39.621Z",
+      "lastModified": "2025-07-30T10:43:25.340Z",
       "size": 123530,
       "exif": null,
       "toneAnalysis": {
@@ -81,6 +53,34 @@
         "contrast": 21,
         "shadowRatio": 0.1,
         "highlightRatio": 0
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF3768",
+      "title": "DSCF3768",
+      "description": "",
+      "dateTaken": "2025-07-30T10:43:29.332Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/khalilliu/afilmory_photos/main/thumbnails/DSCF3768.webp",
+      "thumbnailUrl": "/thumbnails/DSCF3768.webp",
+      "thumbHash": "a3e7090d82b868678f7a887986a9987ad8748ffc67",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSCF3768.webp",
+      "lastModified": "2025-07-30T10:43:25.340Z",
+      "size": 107526,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 55,
+        "contrast": 42,
+        "shadowRatio": 0.15,
+        "highlightRatio": 0.33
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -98,7 +98,7 @@
       "height": 3826,
       "aspectRatio": 0.5622059592263461,
       "s3Key": "DSCF4149.jpeg",
-      "lastModified": "2025-07-30T09:56:39.192Z",
+      "lastModified": "2025-07-30T10:43:24.903Z",
       "size": 791898,
       "exif": {
         "DateTimeOriginal": "2025-06-25T19:23:58+08:00",
@@ -172,7 +172,7 @@
       "height": 3181,
       "aspectRatio": 0.7500785916378497,
       "s3Key": "DSCF3902.jpeg",
-      "lastModified": "2025-07-30T09:56:39.192Z",
+      "lastModified": "2025-07-30T10:43:24.903Z",
       "size": 1286067,
       "exif": {
         "DateTimeOriginal": "2025-06-23T16:59:37+08:00",
@@ -246,7 +246,7 @@
       "height": 5152,
       "aspectRatio": 1.5,
       "s3Key": "DSCF3768.jpeg",
-      "lastModified": "2025-07-30T09:56:39.192Z",
+      "lastModified": "2025-07-30T10:43:24.903Z",
       "size": 6133750,
       "exif": {
         "DateTimeOriginal": "2025-06-22T17:58:48+08:00",
